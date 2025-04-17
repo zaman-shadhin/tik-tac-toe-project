@@ -150,7 +150,7 @@ public class TicTacToegame {
     }
 
 }
-// Protita line nije liksi sir you tube er help niya 
+// every line er code nije liksi sir (you tube er help niya) :)
 // sir bissash koren shob nijei jene buje liksi
 
 // sir number ta ektu valo diyen sir please 
